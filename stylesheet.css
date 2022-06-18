@@ -1,0 +1,50 @@
+ h1{color: indigo;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    
+      
+
+}
+h2{color:darkred;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+
+}
+body{
+    background-color:grey;
+    color:white;
+font-size:medium;
+font-family:cursive;
+font-weight: bold;
+font-style:normal;
+
+    
+}
+li{
+    color: coral;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+#container{
+    height:fit-content;
+   width:fit-content;
+   padding: auto;
+}
+#main{
+    overflow:auto;
+    padding-bottom: 150px;
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    
+}
+#footer{
+    background-color: black;
+    position: relative;
+    height: 150x;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    
+    
+}
